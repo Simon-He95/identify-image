@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git + git@github.com:Simon-He95/identify-image.git"
+    "url": "git+https://github.com/Simon-He95/identify-image.git"
   },
   "bugs": {
     "url": "https://github.com/Simon-He95/identify-image/issues"
